@@ -1,3 +1,3 @@
 # scripts
 scripts
-loadstring hub
+all open source loadstring hubs
